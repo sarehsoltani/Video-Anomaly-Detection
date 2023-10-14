@@ -1,5 +1,3 @@
-# Video-Anomaly-Detection
-
 ## Introduction
 This repository contains a Jupyter Notebook that demonstrates a weakly-Supervised anomaly detection model for video-level anomaly detection on the UCF-Crime dataset. This method is implemented in Python.
 
